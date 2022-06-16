@@ -3,9 +3,8 @@ Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos n
 
 ## ⚙️ Características da Página
 
-- Ferramentas de display
+- Layout
 - Tags Semânticas
-- Responsividade
 
 ## 🛠️ Construído com
 
