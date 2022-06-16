@@ -1,7 +1,7 @@
 # Porfolio
 Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos no curso da Origamid.
 
-## ⚙️ Características da Página
+## ⚙️ Conceitos
 
 - Layout
 - Tags Semânticas
