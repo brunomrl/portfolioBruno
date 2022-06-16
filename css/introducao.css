@@ -1,0 +1,16 @@
+.introducao {
+  max-width: 1200px;
+  padding: 40px 20px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 100px;
+  align-items: center;
+}
+
+h1 {
+  font-size: 5rem;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  font-weight: 900;
+}

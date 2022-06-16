@@ -1,0 +1,49 @@
+.formacao {
+  background-color: #141414;
+  color: white;
+}
+
+.formacao-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 100px;
+  padding: 40px;
+}
+
+.formacao-texto {
+  font-size: 1.75rem;
+  margin-bottom: 30px;
+  max-width: 50ch;
+  text-align: justify;
+}
+
+.formacao-lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 60px;
+}
+
+.formacao-curso {
+  flex: 1;
+  background: #000000;
+  padding: 20px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.formacao-titulo {
+  color: #868686;
+}
+
+.formacao-nome {
+  margin: 30px 0px 30px 0px;
+  font-weight: bolder;
+}
+
+.formacao-instituicao {
+  color: #868686;
+}
