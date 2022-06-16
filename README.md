@@ -12,7 +12,7 @@ Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos n
 * HTML
 * CSS
 
-![Animação5](https://user-images.githubusercontent.com/90878483/162843886-dab64bfc-8fee-4ac0-8920-6def6783872a.gif)
+![Screenshot_1](https://user-images.githubusercontent.com/90878483/174152347-43b80a1f-8a50-4040-8d9e-c18f56c1e0f7.png)
 
 ---
 Desenvolvido por [Bruno Amaral](https://github.com/brunomrl)
